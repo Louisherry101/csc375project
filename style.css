@@ -3,16 +3,13 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f0f0f0;
-    background-image: url('./images/banner2.jpg')
-    background-size: contain;
-    background-position: center;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
 }
 header {
     background-image: url('./images/banner.jpg');
-    background-size: contain;
+    background-size: cover;
     background-position: center;
     background-color: #333;
     color: #006400;
