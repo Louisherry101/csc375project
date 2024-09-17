@@ -10,7 +10,7 @@ body {
 }
 header {
     background-image: url('./images/banner2.jpg');
-    background-size: auto;
+    background-size: contain;
     background-position: center;
     background-color: #333;
     color: #006400;
